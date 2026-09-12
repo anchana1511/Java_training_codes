@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Dowhileloop {
 	public static void main(String[] args) {
 		Scanner sc= new Scanner(System.in);
-	/*System.out.println("the  given number is palindrome or not  ");
+	System.out.println("the  given number is palindrome or not  ");
     System.out.print("enter the number: ");
 	int n= sc.nextInt();
     int i=1;
@@ -54,7 +54,6 @@ public class Dowhileloop {
 			System.out.println("Do you want to continue (yes/no):");
 			c=sc.next().charAt(0);
 		}while( c=='y');
-			*/
 		
 
 		
